@@ -16,4 +16,8 @@ Atividade de fixação do modulo 3 do Santander coders 2023.1, ministrado pela A
 - para rodar a aplicação em teste utilize o comando 'npm run dev' e para buildar 'npm run build'
 - para startar a aplicação após o build utilize o comando 'npm run start'
 
+#Imagens dos Resultados
 
+<img src="https://raw.githubusercontent.com/JuanSalles/todolist-ADA-POO/main/printscreen/parte-1.png">
+
+<img src="https://raw.githubusercontent.com/JuanSalles/todolist-ADA-POO/main/printscreen/parte-2.png">
